@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://indigo77072.github.io/make-a-game/](https://indigo77072.github.io/make-a-game/)
+> Open this page at [https://Cookies-and-Code.github.io/make-a-game/](https://indigo77072.github.io/make-a-game/)
 
 ## Use as Extension
 
